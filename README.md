@@ -33,7 +33,7 @@ The app integrates with **Firebase** for backend services, managing user data, s
 </p>
 
 
-[Click here to watch the demo video](https://drive.google.com/drive/home?dmr=1&ec=wgc-drive-globalnav-goto)
+[Click here to watch the demo video](https://drive.google.com/file/d/1kFbbw-sXLgNsS47D-zWuFYFzidLLBccV/view?usp=sharing)
 
 
 ## Table of Contents
