@@ -33,7 +33,7 @@ The app integrates with **Firebase** for backend services, managing user data, s
 </p>
 
 
-<video controls src="utils/Untitled video - Made with Clipchamp (1).mp4" title="Title"></video>
+[Click here to watch the demo video](https://drive.google.com/drive/home?dmr=1&ec=wgc-drive-globalnav-goto)
 
 
 ## Table of Contents
