@@ -1,10 +1,40 @@
----
-
 # Movie Mind
 
-**Movie Mind** is a React Native application that provides movie predictions, trending movies, and recent predictions. This app helps users find movies based on predictions and trending data, all integrated with Firebase for backend services.
+**Movie Mind** is a React Native application that allows users to upload short movie clips or share links to clips from platforms like Facebook, Instagram, and TikTok. The app functions similarly to Shazam but for movies, predicting the movie from the uploaded or shared content.
+
+### Key Features:
+- **Movie Predictions**: Users can upload clips or share links, and the app predicts the movie.
+- **Actor and Character Detection**: The app identifies actors in the provided clip and displays their character names, along with the frames where they appear.
+- **Trending Movies**: Provides a list of trending movies.
+- **Recent Predictions**: Displays a history of recent movie predictions.
+
+### How It Works:
+**Movie Mind** integrates advanced AI models and cloud services for accurate predictions:
+- **OpenAI CLIP Model**: This model processes and interprets visual data from uploaded movie clips to identify the movie and match actors with their character names.
+- **Google Cloud Vision + NLP**: Google Cloud Vision extracts text from shared links and the content of the linked webpages, such as movie descriptions or actor details. This information is then processed with Natural Language Processing (NLP) to match actors and movies, augmenting the prediction process and providing more accurate results.
+
+The app integrates with **Firebase** for backend services, managing user data, storing clips, and enabling seamless interactions. This combination of AI-powered visual and text analysis makes **Movie Mind** a comprehensive solution for movie identification and actor recognition from short clips or shared links.
+
+<p align="center">
+    <img src="utils/Screenshot 2024-09-17 024838-1.png" alt="Screenshot 1" width="200"/>
+    <img src="utils/Screenshot 2024-09-17 025600-1.png" alt="Screenshot 2" width="200"/>
+    <img src="utils/Screenshot 2024-09-17 025924.png" alt="Screenshot 3" width="200"/>
+    <img src="utils/Screenshot 2024-09-17 030055.png" alt="Screenshot 4" width="200"/>
+    <img src="utils/Screenshot 2024-09-17 031233.png" alt="Screenshot 5" width="200"/>
+    <img src="utils/Screenshot 2024-09-17 031353.png" alt="Screenshot 6" width="200"/>
+    <img src="utils/Screenshot 2024-09-17 031612.png" alt="Screenshot 7" width="200"/>
+</p>
+
+![alt text](utils/Screenshot 2024-09-17 032734.png)
+
+![alt text](utils/Screenshot 2024-09-17 032549.png)
+![alt text](utils/Screenshot 2024-09-17 032803.png)
+
+<video controls src="utils/Untitled video - Made with Clipchamp (1).mp4" title="Title"></video>
+
 
 ## Table of Contents
+
 
 - [Features](#features)
 - [Project Structure](#project-structure)
