@@ -25,10 +25,13 @@ The app integrates with **Firebase** for backend services, managing user data, s
     <img src="utils/Screenshot 2024-09-17 031612.png" alt="Screenshot 7" width="200"/>
 </p>
 
-![alt text](utils/Screenshot 2024-09-17 032734.png)
 
-![alt text](utils/Screenshot 2024-09-17 032549.png)
-![alt text](utils/Screenshot 2024-09-17 032803.png)
+<p align="center">
+    <img src="utils/Screenshot 2024-09-17 032734.png" alt="Screenshot 1" width="200"/>
+    <img src="utils/Screenshot 2024-09-17 032549.png" alt="Screenshot 2" width="200"/>
+    <img src="utils/Screenshot 2024-09-17 032803.png" alt="Screenshot 3" width="200"/>
+</p>
+
 
 <video controls src="utils/Untitled video - Made with Clipchamp (1).mp4" title="Title"></video>
 
