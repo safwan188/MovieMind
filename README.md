@@ -7,6 +7,9 @@
 - **Actor and Character Detection**: The app identifies actors in the provided clip and displays their character names, along with the frames where they appear.
 - **Trending Movies**: Provides a list of trending movies.
 - **Recent Predictions**: Displays a history of recent movie predictions.
+- 
+[Click here to watch the demo video](https://drive.google.com/file/d/1kFbbw-sXLgNsS47D-zWuFYFzidLLBccV/view?usp=sharing)
+
 
 ### How It Works:
 **Movie Mind** integrates advanced AI models and cloud services for accurate predictions:
@@ -33,7 +36,6 @@ The app integrates with **Firebase** for backend services, managing user data, s
 </p>
 
 
-[Click here to watch the demo video](https://drive.google.com/file/d/1kFbbw-sXLgNsS47D-zWuFYFzidLLBccV/view?usp=sharing)
 
 
 ## Table of Contents
